@@ -1,6 +1,7 @@
 import privateRuntimeConfig from './config/privateRuntime'
 
 export default {
+  target: 'static',
   // Private config
   privateRuntimeConfig,
 
